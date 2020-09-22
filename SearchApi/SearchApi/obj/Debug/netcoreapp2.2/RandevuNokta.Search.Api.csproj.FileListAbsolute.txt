@@ -1,0 +1,15 @@
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/bin/Debug/netcoreapp2.2/RandevuNokta.Search.Api.deps.json
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/bin/Debug/netcoreapp2.2/RandevuNokta.Search.Api.runtimeconfig.json
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/bin/Debug/netcoreapp2.2/RandevuNokta.Search.Api.runtimeconfig.dev.json
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/bin/Debug/netcoreapp2.2/RandevuNokta.Search.Api.dll
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/bin/Debug/netcoreapp2.2/RandevuNokta.Search.Api.pdb
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/obj/Debug/netcoreapp2.2/RandevuNokta.Search.Api.csprojAssemblyReference.cache
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/obj/Debug/netcoreapp2.2/RandevuNokta.Search.Api.RazorAssemblyInfo.cache
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/obj/Debug/netcoreapp2.2/RandevuNokta.Search.Api.RazorAssemblyInfo.cs
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/obj/Debug/netcoreapp2.2/RandevuNokta.Search.Api.AssemblyInfoInputs.cache
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/obj/Debug/netcoreapp2.2/RandevuNokta.Search.Api.AssemblyInfo.cs
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/obj/Debug/netcoreapp2.2/RandevuNokta.Search.Api.RazorTargetAssemblyInfo.cache
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/obj/Debug/netcoreapp2.2/RandevuNokta.Search.Api.dll
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/obj/Debug/netcoreapp2.2/RandevuNokta.Search.Api.pdb
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/agit/Documents/Personal/RandevuNokta/Service/SearchApi/SearchApi/bin/Debug/netcoreapp2.2/appsettings.json
